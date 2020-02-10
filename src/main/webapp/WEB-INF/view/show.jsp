@@ -13,8 +13,8 @@
 	src="${pageContext.request.contextPath}/resource/jquery-3.2.1.js"></script>
 </head>
 <body>
-	
-	大家好，这是网课的第一天！！W对我的dsad 
+	hello,maven，这是第一次网课
 </body>
+
 
 </html>
